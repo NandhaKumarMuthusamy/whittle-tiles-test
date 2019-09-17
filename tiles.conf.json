@@ -1,0 +1,40 @@
+{
+  "tileComponents": {
+    "Health": {
+      "script": "bundle.js"
+    },
+    "Payroll": {
+      "script": "bundle.js"
+    },
+    "Benefits": {
+      "script": "bundle.js"
+    },
+    "Classes": {
+      "script": "bundle.js"
+    },
+    "MyCourses": {
+      "script": "bundle.js"
+    },
+    "MyGrades": {
+      "script": "bundle.js"
+    },
+    "MyJR": {
+      "script": "bundle.js"
+    },
+    "MyStudio": {
+      "script": "bundle.js"
+    },
+    "Payments": {
+      "script": "bundle.js"
+    },
+    "Phone": {
+      "script": "bundle.js"
+    },
+    "Report": {
+      "script": "bundle.js"
+    },
+    "Procurement": {
+      "script": "bundle.js"
+    }
+  }
+}

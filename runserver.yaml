@@ -1,0 +1,71 @@
+homepage:
+
+  menu:
+    replace:      
+      - tileComponent: Benefits
+        noLabel: true
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-benefits.png"
+        action: "campusm://openURL?type=external&url=https%3A%2F%2Fwhittleschoolandstudios.namely.com%2Fusers%2Flogin"        
+       
+        
+      - tileComponent: Classes
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-classes.png"
+        action: "null" 
+      
+      
+      - tileComponent: Health
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-health.png"
+        action: "campusm://openURL?url=https%3A%2F%2Fsecure.magnushealthportal.com%2Ffront_desk.jsf"
+
+
+      - tileComponent: MyCourses
+        tileWidth: "3"
+
+
+      - tileComponent: MyGrades
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-my-grades.png"
+        action: "campusm://openURL?type=external&url=https%3A%2F%2Fwhittle.geniussis.com%2FFEAcademicSnapshot.aspx"
+       
+        
+      - tileComponent: MyHR
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-my-HR.png"
+        action: "campusm://openURL?url=https%3A%2F%2Fwhittleschoolandstudios.namely.com%2Fusers%2Flogin"
+      
+        
+      - tileComponent: MyStudio
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-my-studio.png"
+        action: "campusm://openURL?url=https%3A%2F%2Fadmin.asapconnected.com%2Faccount%2Flogin"
+
+
+      - tileComponent: Payments
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-payments.png"
+        action: "campusm://openURL?type=external&url=https%3A%2F%2Fwhittle.geniussis.com%2FFEMakePPPayment.aspx"
+
+
+      - tileComponent: Payroll 
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-payroll.png"
+        action: "campusm://openURL?url=https%3A%2F%2Fwhittleschoolandstudios.namely.com%2Fusers%2Flogin"
+
+
+      - tileComponent: Phone
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-phone.png"
+        action: "null"
+
+
+      - tileComponent: Report
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-report.png"
+        action: "campusm://openURL?type=external&url=https%3A%2F%2Fwhittle.geniussis.com%2FFEDashboard.aspx"
+
+      - tileComponent: MyCoursesTest
+        noLabel: true 
+        image: "https://portal-na.campusm.exlibrisgroup.com/assets/TheWhittleSchool/TheWhittleSchoolSandbox/1-by-1-my-courses.png"
+        action: "campusm://openURL?url=https%3A%2F%2Finfosys.agilixbuzz.com%2Fstudent%2Fhome%2Fcourses%20"
